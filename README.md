@@ -1,1 +1,1 @@
-# Some small projects in Python!
+# Some Small Projects in Python!
